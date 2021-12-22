@@ -1,0 +1,16 @@
+.div1{
+    background-color: darkviolet;
+    color: blue;
+}
+.div2{
+    background-color: aqua;
+    color: darkcyan;
+}
+.div3{
+    background-color: green;
+    color: black;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
